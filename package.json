@@ -1,5 +1,5 @@
 {
-  "name": "gameoflife",
+  "name": "life",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
